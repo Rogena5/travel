@@ -450,40 +450,6 @@ text-align: center;
     top:0;
 }
 
-/*review*/
-.review .review-slider{
-    padding-bottom: 20px;
-}
-.review .box{
-    padding: 20px;
-    text-align: center;
-    box-shadow: 0 10px 20px rgba(0,0,0,.1);
-    border-radius: 5px;
-}
-
-.review .box img{
-    height: 13rem;
-    width: 13rem;
-    border-radius: 50%;
-    object-fit: cover;
-margin-bottom: 10px;
-}
-
-.review .box h3{
-    color: #333;
-    font-size: 25px;
-}
-
-.review .box p{
-    color: #666;
-    font-size: 15px;
-    padding: 10px 0;
-}
-.review .box .stars i{
-    color: var(--main-color);
-    font-size: 25px;
-    font-size: 20px;
-}
 .contact .row{
     display: flex;
     flex-wrap: wrap;
